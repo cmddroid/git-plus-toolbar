@@ -14,7 +14,7 @@
       }
     }
   },
-  "repository": "https://github.com/Pyragon/git-plus-toolbar",
+  "repository": "https://github.com/cmddroid/git-plus-toolbar",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
