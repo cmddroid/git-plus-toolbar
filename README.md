@@ -15,5 +15,6 @@ This toolbar was made for ease-of-use, and all functionality is credited to the 
 *   Add All files
 *   Commit
 *   Compare
+*   Merge
 *   Push
 *   Pull
